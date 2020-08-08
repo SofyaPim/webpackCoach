@@ -1,4 +1,5 @@
 # coach
 
 # webpackCoach
-# результат сборки https://github.com/SofyaPim/webpackCoach/dist/
+# результат сборки https://sofyapim.github.io/webpackCoach/dist/index.html
+
